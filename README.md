@@ -9,4 +9,4 @@ Nutritional Consumption ” at the NCRIMA on Artificial Intelligence, Data Scien
 • Presented research findings at a national conference, resulting in increased visibility for the project among industry experts.
 
 Note: A Google Scholar publication by the NCRIMA team will trigger the release of the code, which has not yet been made public.
-[Project Link](https://stmcomputers.stmjournals.com/index.php/JoAIRA/article/view/583)
+           [Project Link](https://stmcomputers.stmjournals.com/index.php/JoAIRA/article/view/583)
